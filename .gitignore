@@ -1,0 +1,6 @@
+finetune-bert-sentiment-analysis
+sentiment_model/*
+logs
+*.tsv
+__pycache__
+.DS_Store
